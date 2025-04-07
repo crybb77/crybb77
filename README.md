@@ -37,8 +37,3 @@ I’m deeply committed to continuous learning and personal growth. Whether it’
 I'm excited to apply my diverse skills, adaptability, and newly gained technical expertise to contribute to meaningful solutions. If you're looking for someone who brings a unique combination of experience, dedication, and a growth mindset, let's connect and explore how we can collaborate for success.
 
 Thank you for visiting my profile!
-
-# My GitHub Repositories
-
-## Iris Flower Predictor
-![Iris Flower Predictor](Iris%20Flower.png)
