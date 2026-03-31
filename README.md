@@ -40,7 +40,7 @@ I’m deeply committed to continuous learning and personal growth. Whether it’
 - Applied concepts to solar energy forecasting within the SPICE (Solar Power Investment Cooperative of Edmonton) project
 - Gained hands-on experience with Python tools including pandas and statsmodels
 
-📄 [View Certificate]([./CertificateOfCompletion_Python for Time Series Forecasting.pdf]
+📄 [View Certificate]([./Certificate_Time_Series_Forecasting.pdf]
 
 ## Let's Connect!
 I'm excited to apply my diverse skills, adaptability, and newly gained technical expertise to contribute to meaningful solutions. If you're looking for someone who brings a unique combination of experience, dedication, and a growth mindset, let's connect and explore how we can collaborate for success.
