@@ -31,7 +31,16 @@ Currently, I am pursuing my passion for technology and data as a Machine Learnin
 Technology and its potential to solve real-world challenges have always fascinated me. As a Machine Learning Analyst student, I’m acquiring technical expertise in areas such as data analysis, AI development, and predictive modeling. My studies at NorQuest College are equipping me with the tools I need to make a difference in industries that rely on data-driven insights.
 
 ## Lifelong Learning
-I’m deeply committed to continuous learning and personal growth. Whether it’s mastering new programming languages, diving into the world of data visualization, or exploring machine learning algorithms, I’m always eager to expand my knowledge and tackle new challenges.
+I’m deeply committed to continuous learning and personal growth. Whether it’s mastering new programming languages, diving into the world of data visualization, or exploring machine learning algorithms, I’m always eager to expand my knowledge and tackle new challenges. I am actively building practical skills through projects and certifications, including time-series forecasting techniques applied to real-world energy data.
+
+## 📜 Certifications
+
+### Time Series Forecasting with Python – LinkedIn Learning
+- Developed skills in time series decomposition, ARIMA/SARIMA models, and forecasting techniques
+- Applied concepts to solar energy forecasting within the SPICE (Solar Power Investment Cooperative of Edmonton) project
+- Gained hands-on experience with Python tools including pandas and statsmodels
+
+📄 [View Certificate]([./CertificateOfCompletion_Python for Time Series Forecasting.pdf]
 
 ## Let's Connect!
 I'm excited to apply my diverse skills, adaptability, and newly gained technical expertise to contribute to meaningful solutions. If you're looking for someone who brings a unique combination of experience, dedication, and a growth mindset, let's connect and explore how we can collaborate for success.
