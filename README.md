@@ -33,14 +33,14 @@ Technology and its potential to solve real-world challenges have always fascinat
 ## Lifelong Learning
 I’m deeply committed to continuous learning and personal growth. Whether it’s mastering new programming languages, diving into the world of data visualization, or exploring machine learning algorithms, I’m always eager to expand my knowledge and tackle new challenges. I am actively building practical skills through projects and certifications, including time-series forecasting techniques applied to real-world energy data.
 
-## 📜 Certifications
+## Certifications
 
 ### Time Series Forecasting with Python – LinkedIn Learning
 - Developed skills in time series decomposition, ARIMA/SARIMA models, and forecasting techniques
 - Applied concepts to solar energy forecasting within the SPICE (Solar Power Investment Cooperative of Edmonton) project
 - Gained hands-on experience with Python tools including pandas and statsmodels
 
-📄 [View Certificate]([./Certificate_Time_Series_Forecasting.pdf]
+📄 [View Certificate](./Certificate_Time_Series_Forecasting.pdf)
 
 ## Let's Connect!
 I'm excited to apply my diverse skills, adaptability, and newly gained technical expertise to contribute to meaningful solutions. If you're looking for someone who brings a unique combination of experience, dedication, and a growth mindset, let's connect and explore how we can collaborate for success.
