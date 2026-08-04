@@ -1,48 +1,60 @@
-# Crystal Blackburn - Professional Overview
+# Crystal Blackburn
 
 ## About Me
-I am a dedicated and resourceful professional based in Spruce Grove, Alberta, with a broad range of skills honed through my experience in both administrative and technical fields. I bring a diverse perspective, thanks to my journey through various roles that have sharpened my ability to adapt, communicate, and lead with a clear sense of purpose.
 
-Currently, I am pursuing my passion for technology and data as a Machine Learning Analyst student at NorQuest College. My ongoing education in machine learning is building a strong foundation for future endeavors in data analysis, AI development, and predictive modeling.
+I am a dedicated and resourceful Machine Learning Analyst graduate with honours based in Spruce Grove, Alberta. My background spans healthcare, administration, and technology, providing a unique perspective on solving real-world problems through organization, data, and artificial intelligence.
+
+I am passionate about applying machine learning to healthcare, rehabilitation, and assistive technologies while continuing to build practical, data-driven solutions that make a meaningful impact.
+
+---
 
 ## What I Bring to the Table
 
-- **Adaptability**: Throughout my career and personal experiences, I have developed a strong ability to shift priorities and adjust to new situations quickly and efficiently. Whether managing multiple projects or navigating evolving circumstances, I stay focused and calm under pressure.
-- **Resourcefulness**: Managing various roles and responsibilities has enhanced my ability to creatively solve problems and make decisions that align with both short-term needs and long-term goals.
-- **Time Management**: Balancing multiple tasks and deadlines has refined my ability to prioritize effectively and meet deadlines without sacrificing quality.
-- **Communication**: My experience working in diverse settings has made me a strong communicator, capable of clearly conveying complex ideas to different audiences, whether through written or verbal means.
-- **Leadership & Collaboration**: Whether leading a small team or collaborating with others toward a shared objective, I’ve developed strong leadership and teamwork skills that enable me to motivate, guide, and achieve results in dynamic environments.
+- **Adaptability** – Experienced in managing changing priorities, learning new technologies, and solving complex problems in dynamic environments.
+- **Resourcefulness** – Skilled at developing practical solutions by combining analytical thinking, organization, and creativity.
+- **Time Management** – Able to balance multiple priorities while maintaining accuracy and meeting deadlines.
+- **Communication** – Strong written and verbal communication skills developed through diverse administrative, healthcare, and technical roles.
+- **Leadership & Collaboration** – Experienced working independently and collaboratively while building positive relationships and achieving shared goals.
+
+---
 
 ## Previous Experience
 
-- **Shelter Intake Worker**  
-  *Hope Mission*  
-  In this role, I handled administrative tasks, provided support to clients, and maintained a secure environment. I built rapport with individuals in need and ensured all processes ran smoothly.
-  
-- **Professional Organizer**  
-  *Your Organized Friends*  
-  I helped clients declutter and downsize, approaching each situation with empathy and care, especially during sensitive transitions. This role sharpened my problem-solving abilities and attention to detail.
-  
-- **Assistant Event Coordinator**  
-  *Bluesea Foundation (Ride for Refuge Edmonton)*  
-  I assisted in all aspects of event planning, from budgeting to client communication, venue selection, and marketing. This experience allowed me to contribute to impactful events while developing my organizational and communication skills.
+### Shelter Intake Worker  
+**Hope Mission**
+
+Provided administrative support, client intake, documentation, and compassionate service while maintaining a safe and organized environment.
+
+### Professional Organizer  
+**Your Organized Friends**
+
+Helped clients organize, declutter, and navigate major life transitions through structured planning, problem-solving, and attention to detail.
+
+### Assistant Event Coordinator  
+**Bluesea Foundation – Ride for Refuge Edmonton**
+
+Assisted with event planning, budgeting, marketing, logistics, and volunteer coordination while supporting successful community fundraising events.
+
+---
 
 ## Why Machine Learning?
-Technology and its potential to solve real-world challenges have always fascinated me. As a Machine Learning Analyst student, I’m acquiring technical expertise in areas such as data analysis, AI development, and predictive modeling. My studies at NorQuest College are equipping me with the tools I need to make a difference in industries that rely on data-driven insights.
+
+My interest in technology is driven by its potential to solve meaningful real-world challenges. Through my education and hands-on projects, I have developed experience in machine learning, data analysis, predictive modeling, and artificial intelligence. I am particularly interested in applying these skills within healthcare and rehabilitation to improve accessibility, support decision-making, and enhance quality of life.
+
+---
 
 ## Lifelong Learning
-I’m deeply committed to continuous learning and personal growth. Whether it’s mastering new programming languages, diving into the world of data visualization, or exploring machine learning algorithms, I’m always eager to expand my knowledge and tackle new challenges. I am actively building practical skills through projects and certifications, including time-series forecasting techniques applied to real-world energy data.
 
-## Certifications
+I am committed to continuous learning and enjoy expanding my knowledge through technical projects, certifications, and emerging technologies. I believe the best solutions come from combining curiosity, collaboration, and practical experience.
 
-### Time Series Forecasting with Python – LinkedIn Learning
-- Developed skills in time series decomposition, ARIMA/SARIMA models, and forecasting techniques
-- Applied concepts to solar energy forecasting within the SPICE (Solar Power Investment Cooperative of Edmonton) project
-- Gained hands-on experience with Python tools including pandas and statsmodels
+---
+
+## Education & Certifications
+
+### 🎓 Machine Learning Analyst Diploma (Honours) – NorQuest College
+
+📄 [View Diploma](./NorQuest_Machine_Learning_Analyst_Diploma_Honours.pdf)
+
+### 📈 Time Series Forecasting with Python – LinkedIn Learning
 
 📄 [View Certificate](./Certificate_Time_Series_Forecasting.pdf)
-
-## Let's Connect!
-I'm excited to apply my diverse skills, adaptability, and newly gained technical expertise to contribute to meaningful solutions. If you're looking for someone who brings a unique combination of experience, dedication, and a growth mindset, let's connect and explore how we can collaborate for success.
-
-Thank you for visiting my profile!
